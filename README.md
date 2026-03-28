@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (📚Student📚  💻Developer💻  🎬Video Editor🎬)`**
 
-I'm a bachelor student in Electronics, Telecommunication, and Information Technology, with a specialization in Telecommunication, Technology and Systems. I enjoy working on cutting-edge projects that bridge the gap between hardware and software. Entry level video editor. On this Github page I will post all my projects in different programming languages and learn along the way the secrets of coding.
+I'm a masters student in Electronics, Telecommunication, and Information Technology. I enjoy working on cutting-edge projects that bridge the gap between hardware and software. Entry level video editor. On this Github page I will post all my projects in different programming languages and learn along the way the secrets of coding.
 
 ---
 
